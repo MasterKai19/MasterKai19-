@@ -1,4 +1,4 @@
-Hi! I am MOhammad Kaif Raj
+Hi! I am Mohammad Kaif Raj
 
 🎓 Computer science student at United International University<br/>  
 💻 Creating themed desktop apps to stay consistent<br/>   
